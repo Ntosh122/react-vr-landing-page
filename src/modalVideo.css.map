@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "modalVideo.scss",
+        "../node_modules/react-modal-video/scss/modal-video.scss"
+    ],
+    "names": [],
+    "file": "modalVideo.css"
+}
